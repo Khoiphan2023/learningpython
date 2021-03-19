@@ -1,3 +1,4 @@
-# Khoi Phan
-one
-This is where the fun begin
+myAge = 16
+print(myAge)
+myAge = 17
+print(myAge)
