@@ -1,11 +1,5 @@
-favFood = "Cake"
-day = "today"
-print("Your favorite food is " + favFood + " " + day)
+def addTwoNumbers(x, y):
+    return x + y
 
-
-adjective = "good"
-noun = "book"
-plural noun = "teachers"
-room = "may"
-adjective = "old"
-clothing = "fancy"
+print(addTwoNumbers(5, 7))
+    
